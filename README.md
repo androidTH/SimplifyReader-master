@@ -5,19 +5,11 @@
 
 ###效果图
 
-![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/all_in_one.jpg)
-
-
-![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/project.gif)
-
-![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/qrcode.gif)
-
-![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/project_struct.png)
 
 ###Demo下载
-[火速跳转](https://fir.im/simplifyreader) | [Download-APK](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/apks/app-debug.apk)
 
-![image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/download.png)
+
+
 
 ###模块分析
 
@@ -154,27 +146,24 @@
 
 * **Link:** [http://open.youku.com/](http://open.youku.com/)
 
-###打赏我
 
-![Image](https://raw.githubusercontent.com/SkillCollege/server/master/SimplifyReader/images/pay_qrcode.png)
 
 ###关于我
 
-* **QQ:** 1076559197
-* **QQ Tribe:** 271918140 [https://github.com/liaohuqiu/qq-tribe-rule](https://github.com/liaohuqiu/qq-tribe-rule)
+* **QQ:** 374253666
 * **Weibo:** [http://weibo.com/obsessive1990](http://weibo.com/obsessive1990)
-* **Email:** [1076559197@qq.com](mailto:1076559197@qq.com) | [tchen0707@gmail.com](mailto:tchen0707@gmail.com)
-* **Github:** [https://github.com/skillcollege](https://github.com/skillcollege)
-* **Blog:** [https://skillcollege.github.io](https://skillcollege.github.io) | [http://blog.csdn.net/skillcollege](http://blog.csdn.net/skillcollege)
+* **Email:** [374253666@qq.com](ostea:374253666@qq.com) | 
+* **Github:** [https://github.com/ostea](https://github.com/ostea)
+* **Blog:** [http://blog.csdn.net/ostea](http://blog.csdn.net/ostea)
 
 ###项目主页
 
-[http://skillcollege.github.io/SimplifyReader/](http://skillcollege.github.io/SimplifyReader/)
+* ** Waiting...**
 
 ###License
 
 ```
-Copyright (c) 2015 [1076559197@qq.com | tchen0707@gmail.com]
+Copyright (c) 2015 [374253666@qq.com ]
 
 Licensed under the Apache License, Version 2.0 (the "License”);
 you may not use this file except in compliance with the License.
